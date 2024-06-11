@@ -9,7 +9,7 @@ This is the place where you can find my entire cool projects and stuff going on 
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with few years of experience in developing enterprise applications and open-source software.
+I am Blaise pascala Full Stack Developer with few years of experience in developing enterprise applications and open-source software.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
