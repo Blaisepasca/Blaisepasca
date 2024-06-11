@@ -1,21 +1,14 @@
-<div align="center"><h2> Hello Dev<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm  Blise pascal</h2> <strong> Available to hire</>✅</div>
+<div align="center"><h2> Hello Dev<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm  Blaise pascal</h2> <strong> Available to hire</>✅</div>
 
 #### 👦 ABOUT ME
 
- I'm a **Full Stack Web3 Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday
+ I'm a **Full Stack Web3 Developer** based in Kigali, RWANDA. I always try to compete with the world, which makes me a better person than I am yesterday 🌱
 
 
 - 🔭 I like web3 development 😸.
 - Working on real-world project  
 - Developing world-class applications & providing innovative technologies | Our values: Excellence, Innovation
- 
- 
-- 🌱 I’m a certified full-stack development 💻 from [MICROVERSE](https://www.microverse.org/).
-  - As an online school teaching webdevelopment relevant to international rules and based in San Francisco/California, My biggest achivievement up to now is [my capstone project](https://github.com/KABIKA681/HyundaiBest), a beautifull webApp, built with the use HTML5 and CSS3.
-  - Have earned my first certificate of completion. [See my CERTIFICATE](https://www.credential.net/1d85f65f-9943-47df-b759-be87f53862f3#gs.sdzz79)
-
-
-
+  
 <table><tr><td valign="top" width="33%">
 <h3 align="center">Programming Languages</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
@@ -30,12 +23,14 @@
 <h3 align="center">Other</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </p>
 
-</td><td valign="top" width="33%">
+<!--</td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
 <p align="center"> <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> </a> <a href="https://socket.io/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/330px-Socket-io.svg.png" alt="socket" width="40" height="40"/> </a> </p>
-
+"-->
+ <!--
 <h3 align="center">Database & Testing</h3>
-<p align="center"> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://mochajs.org" > <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.chaijs.com/" > <img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="chai" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://mochajs.org" > <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.chaijs.com/" > <img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="chai" width="40" height="40"/> </a> <a href="https://postman.com" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p> 
+ -->
  
 </td></tr></table>
  
